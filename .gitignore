@@ -1,0 +1,16 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE related
+*.pyproj
+*.vscode/
+*.idea/
+discos_test/
+historial_bitmaps_bloques.txt
+historial_bitmaps_inodos.txt
+historial_bitmaps.txt
+
+# Custom ignores for your project

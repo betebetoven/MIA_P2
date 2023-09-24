@@ -8,7 +8,7 @@ __pycache__/
 *.pyproj
 *.vscode/
 *.idea/
-discos_test/
+
 historial_bitmaps_bloques.txt
 historial_bitmaps_inodos.txt
 historial_bitmaps.txt
